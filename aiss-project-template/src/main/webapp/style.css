@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+fieldset {
+	border: 1px solid gray;
+	width:30%;
+	margin-right:1%;
+	float:left;
+}
+
+legend {
+	padding: 0.2em 0.5em;
+	border: 1px solid gray;
+	font-size: 90%;
+	text-align: right;
+}
