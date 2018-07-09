@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+//pene
 public class HelloWorldServlet extends HttpServlet {
 	
 	private static final Logger log = Logger.getLogger(HelloWorldServlet.class.getName());
