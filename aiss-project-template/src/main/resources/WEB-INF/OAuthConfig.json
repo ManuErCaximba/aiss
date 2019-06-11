@@ -1,0 +1,23 @@
+{	
+	"Youtube":{ 
+		"tokenUrl":"",
+		"clientId":"",
+		"clientSecret":"" ,
+		"authorizationFormUrl":"",
+		"scopes":[]
+	},
+	"Deezer":{
+		"tokenUrl":"",
+		"clientId":"",
+		"clientSecret":"" ,
+		"authorizationFormUrl":"",
+		"scopes":[]
+	},
+	"Spotify":{
+		"tokenUrl":"https://accounts.spotify.com/api/token",
+		"clientId":"4476dfdb2acd4142998e55af37c32312",
+		"clientSecret":"53cedca7353949b482513f984f3250c1" ,
+		"authorizationFormUrl":"https://accounts.spotify.com/authorize",
+		"scopes":["playlist-modify-public","user-read-birthdate","user-read-email","user-read-private"]
+	}
+}		
